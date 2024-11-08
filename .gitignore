@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test output
+coverage/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Environment files
+.env
+.env.*.local
